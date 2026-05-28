@@ -1,0 +1,6 @@
+{
+  "name": "TolakHalus.ai",
+  "description": "Asisten AI bahasa komunikasi premium yang memformulasikan pesan penolakan sopan, elegan, cepat, dan tetap menjaga keharmonisan hubungan sosial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
